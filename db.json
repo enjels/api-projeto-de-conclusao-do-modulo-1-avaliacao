@@ -1,22 +1,16 @@
 {
   "mentores": [
     {
-      "mentor": "virgílio",
-      "email": "virgilio@gmail.com",
       "mentor": "um1",
       "email": "um1@1um.com",
       "id": 1
     },
     {
-      "mentor": "richard",
-      "email": "richard@gmail.com",
       "mentor": "dois2",
       "email": "dois2@dois.com",
       "id": 2
     },
     {
-      "mentor": "leozinho",
-      "email": "leozinho@gmail.com",
       "mentor": "casa ",
       "email": "casa@casa.com",
       "id": 3
@@ -30,11 +24,8 @@
       "checkbox": true,
       "id": 1
     },
-@@ -67,21 +67,34 @@
-    },
     {
       "turma": "turma2",
-      "mentor": "virgílio",
       "mentor": "richard",
       "mentoria": "cracudo do vava",
       "datadeinicio": "2023-07-05",
@@ -59,11 +50,8 @@
   ],
   "alunos": [
     {
-      "aluno": "virgílio",
       "aluno": "teste 2",
       "email": "desenvolvedor199759@gmail.com",
-      "turma": "",
-      "id": 1
       "turma": "turma2",
       "id": 2
     }
